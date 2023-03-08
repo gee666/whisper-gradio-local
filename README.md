@@ -1,5 +1,6 @@
 # Whisper locally with Gradio webui
-gradio and whisper locally. No openai API keys needed.
+Convert your voice to text easily
+
 ![preview](https://i.imgur.com/Z3fsehVl.png)
 
 ## Clone Repo
