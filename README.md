@@ -22,7 +22,7 @@ Windows:
 ```
 venv\Scripts\activate.bat
 ```
-## Installing Dependencies
+## Install requirements
 ```
 pip install -r requirements.txt
 ```
