@@ -1,4 +1,4 @@
-#Whisper locally with Gradio webui
+# Whisper locally with Gradio webui
 gradio and whisper locally. No openai API keys needed.
 ![preview](https://i.imgur.com/Z3fsehVl.png)
 
