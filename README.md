@@ -37,6 +37,9 @@ pip install -r requirements.txt
 
 ## Run
 
+When you run a new model for the first time, it will take time to load
+
+
 ```
 python main.py
 ```
