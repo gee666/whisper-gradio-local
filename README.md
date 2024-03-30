@@ -5,7 +5,7 @@ Convert your voice to text easily
 
 ## Clone Repo
 ```
-git clone https://github.com/ausboss/whisper-gradio-local.git
+git clone https://github.com/gee666/whisper-gradio-local.git
 cd whisper-gradio-local
 ```
 
